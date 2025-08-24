@@ -46,6 +46,6 @@ python main_get_game_data.py data target
 
 
 
+### Click down 👇 to view the source code 
 
-
-### [source code](https://github.com/kodjoballo/Advanced_Python_Scripting/blob/main/main_get_game_data.py)
+[source code](https://github.com/kodjoballo/Advanced_Python_Scripting/blob/main/main_get_game_data.py)

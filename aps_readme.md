@@ -27,6 +27,15 @@ Ensure you have **Python 3.x** installed.
 Since this project compiles `.go` files, you must install **Go**:  
 👉 [Download Go](https://go.dev/)
 
+Project Steps / Requirements
+
+- Find all game directories from /data
+- Create a new game /games directory
+- Copy and remove the "game" suffix of all games into the /game directory
+- Create a .json file with the information about the games
+- Compile all of the game code
+- Run all of the game code
+
 ### 3. Run the Script
 Navigate to the project folder and run:
 

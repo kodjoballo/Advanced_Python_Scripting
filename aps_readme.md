@@ -30,5 +30,22 @@ Since this project compiles `.go` files, you must install **Go**:
 ### 3. Run the Script
 Navigate to the project folder and run:
 
-```bash
-python main.py <source_dir> <target_dir>
+
+python main_get_game_data.py <source_dir> <target_dir>
+
+In our case, the source is the data folder
+
+python main_get_game_data.py data target
+
+<p align="center">
+
+![image alt](https://github.com/kodjoballo/Advanced_Python_Scripting/blob/main/Screenshot%202025-08-24%20235703.png?raw=true)
+
+</p>
+
+
+
+
+
+
+### [source code](https://github.com/kodjoballo/Advanced_Python_Scripting/blob/main/main_get_game_data.py)
